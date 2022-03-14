@@ -1,0 +1,27 @@
+{
+  "name": "lendsqr_node",
+  "version": "1.0.0",
+  "description": "nodejs backend for a lendsqr project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greyspades/lendsqr_node.git"
+  },
+  "keywords": [
+    "lendsqr"
+  ],
+  "author": "greyspades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greyspades/lendsqr_node/issues"
+  },
+  "homepage": "https://github.com/greyspades/lendsqr_node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
